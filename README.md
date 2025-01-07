@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+📒 Descrição
+Este projeto é um e-book que aborda a democratização do acesso ao ensino de tecnologia através da Digital Innovation One (DIO) e o sucesso da parceria com a Microsoft. O e-book explora a missão da DIO, seus programas e bootcamps, as parcerias estratégicas e o impacto positivo na vida dos estudantes.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+Leonardo AI para criação de imagens
+Google Search Images para busca de imagens através de IA.
+Microsoft Copilot para assistência na escrita e organização do conteúdo.
 
-> Woooow! Look at this 👀
+Ferramentas de edição de texto: Microsoft Word
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🧐 Processo de Criação
+O conteúdo do e-book foi criado através de uma combinação de pesquisa, escrita colaborativa e geração de imagens. Utilizamos o Microsoft Copilot para estruturar e desenvolver o texto, garantindo que todas as informações fossem apresentadas de forma clara e coesa. As imagens foram geradas utilizando o Leonardo AI, com prompts específicos para ilustrar os principais pontos do e-book.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+🚀 Resultados
+O resultado é um e-book detalhado e informativo que destaca a importância da democratização do acesso ao ensino de tecnologia. O e-book também evidencia o sucesso da parceria entre a DIO e a Microsoft, mostrando como essa colaboração tem beneficiado milhares de estudantes ao oferecer certificações oficiais e oportunidades de aprendizado de alta qualidade.
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Criar algo 'natty' com IA foi um desafio interessante e gratificante. A utilização de ferramentas de IA como o Microsoft Copilot e o Leonardo AI me permitiu uma bordagem criativa e eficiente na produção do conteúdo. A experiência mostrou que, com as ferramentas certas, é possível criar materiais de alta qualidade que atendem às necessidades educacionais e profissionais de forma acessível e inclusiva.
